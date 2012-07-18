@@ -327,5 +327,4 @@ code .number { color: #2F6FAD }
 .count { font-weight: bold; border-radius: 3px }
 .pass .count { background: #BFFFBF;}
 .error .count { background: #F8D5D8; color: red}
-.file-report { display: none; }
 #coverage { font-size: 12px; }
