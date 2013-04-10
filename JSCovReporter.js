@@ -189,6 +189,6 @@ JSCovReporter = Backbone.View.extend({
         }
 
         $('#coverage').html(result);
-        $('#menu').html(index);
+        $('#menu').html('<ul id="toc">' + index + '</ul>');
     }
 });
